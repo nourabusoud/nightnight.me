@@ -3,4 +3,5 @@ Just a simple app that tells you what is the best time to wake up/sleep dependin
 
 
 ### Credits
-I've worked on this with my wife, as I didn't have any Javascript experience when she wrote it.
+Design, HTML and CSS done by @Mahdif
+Javascript by Nourabusoud
